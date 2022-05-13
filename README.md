@@ -11,4 +11,4 @@ const weloveskript = {
     tools: [JavaScript, Python, HTML, CSS],
     frameworks: [React, Express, Angular, Electron],
     goals: "To become a better full-stack developer."
-}```
+}
