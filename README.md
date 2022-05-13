@@ -2,7 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="230">
 <p><em>Application developer at <a href="https://www.brz.gv.at/">Bundesrechenzentrum Vienna</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-[![Twitter: weloveskript](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/insaneistbesseral1)
 [![GitHub weloveskript](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/weloveskript)
 
 
