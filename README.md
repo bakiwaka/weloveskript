@@ -13,5 +13,6 @@ const weloveskript = {
     languages: [German, English],
     tools: [JavaScript, Python, HTML, CSS],
     frameworks: [React, Express, Angular, Electron],
+    learning: [Go, PHP],
     goals: "To become a better full-stack developer."
 }
