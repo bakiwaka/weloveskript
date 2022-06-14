@@ -1,18 +1,27 @@
-<h2> Hi, I'm Insane <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="230">
-<p><em>Application developer at <a href="https://www.brz.gv.at/">Bundesrechenzentrum Vienna</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+# Hello there! I'm bakiwaka.
 
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+## 👀 Currently learning
 
 ```js
-const weloveskript = {
-    pronouns: "he" | "him",
-    languages: [German, English],
-    tools: [JavaScript, Python, HTML, CSS],
-    frameworks: [React, Express, Angular, Electron],
-    learning: [Go, PHP],
-    goals: "To become a better full-stack developer."
-}
+const currentlearning = [ "PHP" + "Go" + "advanced JavaScript" ]
+```
+
+## 👾 Current Projects
+
+[Ramilo](https://github.com/bakiwaka/Ramilo-v1) - Discord Bot with cool functions.
+
+[Ramilo-Web](https://github.com/bakiwaka/Ramilo-Web) - Website for the Discord Bot.
+
+## 🤖 Discord-Information
+
+[My User](https://discord.com/users/982432554932117574)
+
+[Ramilo Support](https://nolur.com)
+
+## 📱 My devices
+
+[HP Laptop](https://browser.geekbench.com/v5/cpu/8725607) - for work & mostly coding
+
+[A52s Samsung 5G](https://www.samsung.com/at/smartphones/galaxy-a/galaxy-a52s-5g/buy/) - for privat use
+
+and a gaming pc but I dont use it :/
