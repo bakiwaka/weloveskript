@@ -20,7 +20,7 @@ const currentlearning = [ "PHP" + "Go" + "advanced JavaScript" ]
 
 ## 📱 My devices
 
-[HP Laptop](https://browser.geekbench.com/v5/cpu/8725607) - for work & mostly coding
+[HP Laptop](https://browser.geekbench.com/v5/cpu/8725607) - for work & mostly for coding
 
 [A52s Samsung 5G](https://www.samsung.com/at/smartphones/galaxy-a/galaxy-a52s-5g/buy/) - for privat use
 
